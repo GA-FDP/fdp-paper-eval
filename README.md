@@ -1,5 +1,7 @@
 # FDP Agent Correctness Evaluation — Prompt Set & Gold Pipelines
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21711018.svg)](https://doi.org/10.5281/zenodo.21711018)
+
 Evaluation data for the paper:
 
 > **The Fusion Data Platform and TokSearch: AI-Assisted, IMAS-Native Analysis
