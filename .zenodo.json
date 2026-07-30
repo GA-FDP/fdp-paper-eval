@@ -1,0 +1,27 @@
+{
+  "title": "FDP Agent Correctness Evaluation — Prompt Set & Gold Pipelines",
+  "description": "Evaluation data for the paper 'The Fusion Data Platform and TokSearch: AI-Assisted, IMAS-Native Analysis of Tokamak Archives at Scale': the 18 natural-language prompts, expert-written gold pipelines, and recorded reference outputs used in the paper's pipeline-generation accuracy ablation on DIII-D, released so the ablation can be rerun against other models and devices.",
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "creators": [
+    {"name": "Sammuli, Brian", "affiliation": "General Atomics"},
+    {"name": "Clark, Mitchell", "affiliation": "General Atomics"},
+    {"name": "Denk, Severin", "affiliation": "General Atomics"},
+    {"name": "Jackson, Samuel", "affiliation": "UK Atomic Energy Authority"},
+    {"name": "Smith, Sterling", "affiliation": "General Atomics"},
+    {"name": "Lin, Kai", "affiliation": "University of California San Diego"},
+    {"name": "Bechtel Amara, Torrin", "affiliation": "General Atomics"},
+    {"name": "Odstrcil, Tomas", "affiliation": "General Atomics"},
+    {"name": "Nazikian, Raffi", "affiliation": "General Atomics"}
+  ],
+  "keywords": [
+    "fusion energy",
+    "tokamak",
+    "DIII-D",
+    "IMAS",
+    "AI agent evaluation",
+    "data access",
+    "Fusion Data Platform",
+    "TokSearch"
+  ]
+}
